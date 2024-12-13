@@ -1,0 +1,5 @@
+Please doenload the following .csv file using the given link
+
+1. articles.csv(34.5 MB): https://drive.google.com/file/d/13HRBjyGc2-9KPuHdLIZCR-o1koA_vcgL/view?usp=sharing 
+2. customers.csv(197.5 MB): https://drive.google.com/file/d/1PLlchq0k2vvAU5cnv343GTjb6W_j-3dp/view?usp=sharing
+3. transactions_train.csv(3.25 GB): https://drive.google.com/file/d/1wC4yrESgAOTNt8s7wTEBKhRWnD31lqMB/view?usp=sharing
